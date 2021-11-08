@@ -5,4 +5,4 @@ Commit Date: 8th November 2021
 
 ## Guide
 
-A selection of project makde over time 💛
+A selection of project made over time 💛
